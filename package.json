@@ -276,7 +276,7 @@
     "test": "make test-all",
     "install": "echo INSTALL!!",
     "postinstall": "echo POSTINSTALL!!",
-    "preinstall": "echo PREINSTALL!!",
+    "preinstall": "echo PREINSTALL!!"
   },
   "dependencies": {
     "commander": "2.3.0",
